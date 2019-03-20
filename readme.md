@@ -1,19 +1,14 @@
-# Hello, this is Codecraft
+# MacBook Product Page
 
-![image](public/images/mockup.png)
+![image](public/images/readme/mainpage.png)
 
-The project idea was to create a coding platform specific for kids.  Opportunity to mix fun and learning.
+This one page macbook product page introduce the new macbook.
 
-Used Node and Express to generate the app; used Handlebars as template / view
-engine and require a data file as the data source.  Github repo that
-is also integrated with Heroku to host and deploy app (host on Heroku, manage it
-on Github, continuously deploy it to Heroku).
+This project is hosted on Heroku and manage on Github
+*Node and Express is used
 
-
-## Tools used during development phase:
-- Adobe Illustrator, Photoshop, After Effects
+## Tools:
 - SASS
 - Node.js
-- https://expressjs.com/ 
-- https://handlebarsjs.com/ 
 - https://www.heroku.com/ 
+- Adobe Design Tools
